@@ -1,0 +1,14 @@
+name = "vbnet"
+main = "./src/index.js" 
+account_id = ""
+compatibility_date = "2024-11-11"
+compatibility_flags = [ "nodejs_compat" ]
+[vars]
+SUPABASE_URL=""
+SUPABASE_KEY=""
+apiKey1=""
+apiKey2=""
+root1=""
+root2=""
+
+
